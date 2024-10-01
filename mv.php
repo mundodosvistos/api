@@ -2,7 +2,7 @@
 /*
 Plugin Name: Mundo dos Vistos API
 Description: Plugin para interagir com a API Mundo dos Vistos e exibir conteúdo no site.
-Version: 1.1
+Version: 1.2
 Author: Mundo dos Vistos
 */
 
